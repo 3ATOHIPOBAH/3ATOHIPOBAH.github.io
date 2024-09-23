@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MyWeek | Мой сайт</title>
+    <link>https://3atohipobah.github.io/tags/myweek/</link>
+      <atom:link href="https://3atohipobah.github.io/tags/myweek/index.xml" rel="self" type="application/rss+xml" />
+    <description>MyWeek</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://3atohipobah.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>MyWeek</title>
+      <link>https://3atohipobah.github.io/tags/myweek/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя с 26.08 по 01.09</title>
+      <link>https://3atohipobah.github.io/post/post5/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://3atohipobah.github.io/post/post5/</guid>
+      <description>&lt;p&gt;провожал лето, гулял с друзьями,и дорабатывал смены на складе.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя с 24.06 по 30.06</title>
+      <link>https://3atohipobah.github.io/post/post4/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://3atohipobah.github.io/post/post4/</guid>
+      <description>&lt;p&gt;уехал в родной город к бабушке. Надеюсь лето пройдет не зря.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя с 10.06 по 16.06</title>
+      <link>https://3atohipobah.github.io/post/post3/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://3atohipobah.github.io/post/post3/</guid>
+      <description>&lt;p&gt;в эту неделю доделывал сайт и лабораторные работы. А так же встретился с друзьями. Скоро поеду в Родной город&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя с 30.05 по 09.06</title>
+      <link>https://3atohipobah.github.io/post/post2/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://3atohipobah.github.io/post/post2/</guid>
+      <description>&lt;p&gt;неделю была сложная сдал матанализ и матлог. Надеюсь на хорошие баллы. Осталось сдать архитектуру ос и английский.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя с 20.05 по 26.05</title>
+      <link>https://3atohipobah.github.io/post/post1/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://3atohipobah.github.io/post/post1/</guid>
+      <description>&lt;p&gt;эту неделю я готовился к летней сессии. Надеюсь сдам все предметы без пересдач.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

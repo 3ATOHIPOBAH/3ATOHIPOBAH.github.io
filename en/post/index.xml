@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How was my last week? | My Site</title>
+    <link>https://3atohipobah.github.io/en/post/</link>
+      <atom:link href="https://3atohipobah.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>How was my last week?</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://3atohipobah.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>How was my last week?</title>
+      <link>https://3atohipobah.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>My Week from 26.08 to 01.09</title>
+      <link>https://3atohipobah.github.io/en/post/post5/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://3atohipobah.github.io/en/post/post5/</guid>
+      <description>&lt;p&gt;I said goodbye to summer, spent time with friends, and completed my shifts at the warehouse.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week from 24.06 to 30.06</title>
+      <link>https://3atohipobah.github.io/en/post/post4/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://3atohipobah.github.io/en/post/post4/</guid>
+      <description>&lt;p&gt;I went to my hometown to visit my grandmother. I hope the summer will be meaningful.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week from 10.06 to 16.06</title>
+      <link>https://3atohipobah.github.io/en/post/post3/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://3atohipobah.github.io/en/post/post3/</guid>
+      <description>&lt;p&gt;This week I finished the website and laboratory work. I also met with friends. Soon, I will go to my hometown.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week from 30.05 to 09.06</title>
+      <link>https://3atohipobah.github.io/en/post/post2/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://3atohipobah.github.io/en/post/post2/</guid>
+      <description>&lt;p&gt;The week was tough; I passed Mathematical Analysis and Mathematical Logic. I hope for good grades. I still need to pass Operating Systems Architecture and English.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week from 20.05 to 26.05</title>
+      <link>https://3atohipobah.github.io/en/post/post1/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://3atohipobah.github.io/en/post/post1/</guid>
+      <description>&lt;p&gt;This week I was preparing for the summer exams. I hope to pass all subjects without retakes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
